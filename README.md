@@ -36,5 +36,3 @@
 <center><figure class="mbr-figure container">
   <div class="image-block" style=width:70%>
  <div class="flourish-embed flourish-globe" data-src="visualisation/9788215"><script src="https://public.flourish.studio/resources/embed.js"></script></div></center>
-
-
